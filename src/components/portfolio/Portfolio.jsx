@@ -18,8 +18,10 @@ const Portfolio = () => {
           </div>
           <h3>This is a portfolio item title</h3>
           {/* Github projects  */}
-          <a href='https://github.com' className='btn '>Github</a>
-          <a href='https://dribble.com/Alien_pixels' className='btn btn-primary ' target='_blank'>Live Demo</a>
+          <div className="portfolio__item-cta">
+            <a href='https://github.com' className='btn '>Github</a>
+            <a href='https://dribble.com/Alien_pixels' className='btn btn-primary ' target='_blank' rel="noreferrer">Live Demo</a>
+          </div>
         </article>
         <article className='portfolio__item'>
           <div className='portfolio__item-image'>
@@ -27,8 +29,10 @@ const Portfolio = () => {
           </div>
           <h3>This is a portfolio item title</h3>
           {/* Github projects  */}
-          <a href='https://github.com' className='btn '>Github</a>
-          <a href='https://dribble.com/Alien_pixels' className='btn btn-primary ' target='_blank'>Live Demo</a>
+          <div className="portfolio__item-cta">
+            <a href='https://github.com' className='btn '>Github</a>
+            <a href='https://dribble.com/Alien_pixels' className='btn btn-primary ' target='_blank' rel="noreferrer">Live Demo</a>
+          </div>
         </article>
         <article className='portfolio__item'>
           <div className='portfolio__item-image'>
@@ -36,8 +40,10 @@ const Portfolio = () => {
           </div>
           <h3>This is a portfolio item title</h3>
           {/* Github projects  */}
-          <a href='https://github.com' className='btn '>Github</a>
-          <a href='https://dribble.com/Alien_pixels' className='btn btn-primary ' target='_blank'>Live Demo</a>
+          <div className="portfolio__item-cta">
+            <a href='https://github.com' className='btn '>Github</a>
+            <a href='https://dribble.com/Alien_pixels' className='btn btn-primary ' target='_blank' rel="noreferrer">Live Demo</a>
+          </div>
         </article>
         <article className='portfolio__item'>
           <div className='portfolio__item-image'>
@@ -45,8 +51,10 @@ const Portfolio = () => {
           </div>
           <h3>This is a portfolio item title</h3>
           {/* Github projects  */}
-          <a href='https://github.com' className='btn '>Github</a>
-          <a href='https://dribble.com/Alien_pixels' className='btn btn-primary ' target='_blank'>Live Demo</a>
+          <div className="portfolio__item-cta">
+            <a href='https://github.com' className='btn '>Github</a>
+            <a href='https://dribble.com/Alien_pixels' className='btn btn-primary ' target='_blank' rel="noreferrer">Live Demo</a>
+          </div>
         </article>
         <article className='portfolio__item'>
           <div className='portfolio__item-image'>
@@ -54,8 +62,10 @@ const Portfolio = () => {
           </div>
           <h3>This is a portfolio item title</h3>
           {/* Github projects  */}
-          <a href='https://github.com' className='btn '>Github</a>
-          <a href='https://dribble.com/Alien_pixels' className='btn btn-primary ' target='_blank'>Live Demo</a>
+          <div className="portfolio__item-cta">
+            <a href='https://github.com' className='btn '>Github</a>
+            <a href='https://dribble.com/Alien_pixels' className='btn btn-primary ' target='_blank' rel="noreferrer">Live Demo</a>
+          </div>
         </article>
         <article className='portfolio__item'>
           <div className='portfolio__item-image'>
@@ -63,8 +73,10 @@ const Portfolio = () => {
           </div>
           <h3>This is a portfolio item title</h3>
           {/* Github projects  */}
-          <a href='https://github.com' className='btn '>Github</a>
-          <a href='https://dribble.com/Alien_pixels' className='btn btn-primary ' target='_blank'>Live Demo</a>
+          <div className="portfolio__item-cta">
+            <a href='https://github.com' className='btn '>Github</a>
+            <a href='https://dribble.com/Alien_pixels' className='btn btn-primary ' target='_blank' rel="noreferrer">Live Demo</a>
+          </div>
         </article>
       </div>
     </section>
